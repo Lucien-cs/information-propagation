@@ -1,14 +1,14 @@
 Abstract
 ========
 
-Many studies have attempted to employ online social networks to affect people’s attitudes and behaviors (Bond et al., 2012; Valente, 2012). Moreover, the wide adoption of social media has caused information overload and has increased the competition for limited human attention in online social networks. However, limited human attention is unconsidered in information propagation models in online social networks. Moreover, previous studies indicated that the independent cascade model and the linear threshold model, two of the classic information propagation models, cannot offer an adequate explanation for information spread. This study investigates whether considering limited human attention would facilitate information propagation in online social networks.
+Many studies have attempted to employ online social networks to affect people’s attitudes and behaviors. Moreover, the wide adoption of social media has caused information overload and has increased the competition for limited human attention in online social networks. However, limited human attention is unconsidered in information propagation models in online social networks, and previous studies indicated that the independent cascade model and the linear threshold model cannot offer an adequate explanation for information spread. Therefore, this study investigates whether considering limited human attention would facilitate information propagation in online social networks.
 
 Introduction
 ============
 
 This study investigates whether considering limited human attention would facilitate information propagation in online social networks.
 
-Many studies have attempted to employ online social networks to affect people’s attitudes and behaviors. Moreover, the wide adoption of social media has caused information overload and has increased the competition for limited human attention in online social networks (Weng, 2012). As Simon foresaw, “a wealth of information that creates a poverty of attention” (Simon, 1971)
+Many studies have attempted to employ online social networks to affect people’s attitudes and behaviors (Bond et al., 2012; Valente, 2012). Moreover, the wide adoption of social media has caused information overload and has increased the competition for limited human attention in online social networks (Weng, 2012). As Simon foresaw, “a wealth of information that creates a poverty of attention” (Simon, 1971)
 
 There has been an increasing interest in understanding the relationship between limited attention and information propagation in online social media (Weng, 2012; Feng, 2015).
 
