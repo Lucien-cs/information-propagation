@@ -57,12 +57,13 @@ Dataset
 Results
 -------
 
-|Model|p(u, v)|AUC for Twitter dataset|
-|-|-|-|
-|Independent Cascade|0.001|0.5000(±0.0001)|
-|Weighted Cascade|1/k(v)|0.8641(±0.0001)|
-|SIR |1-(1-γ)<sup>τ</sup>|0.5000(±0.0001)|
-|fSIR |1-(1-γ/k(v))<sup>τ</sup>|0.8665(±0.0001)|
+|Model|p(u, v)|AUC for Twitter dataset (reply)|AUC for Twitter dataset (retweet)
+|-|-|-|-|
+|Independent Cascade|0.001|0.5000(±0.0001)|0.5000(±0.0001)|
+|Weighted Cascade|1/k(v)|0.8641(±0.0001)|0.8583(±0.0001)
+|SIR |1-(1-γ)<sup>τ</sup>|0.5000(±0.0001)|0.5000(±0.0001)|
+|fSIR |1-(1-γ/k(v))<sup>τ</sup>|0.8665(±0.0001)|0.8569(±0.0001)|
+|Proposed model |1-(1-γ/k(v))(1-γc)|**0.8667**(±0.0001)|**0.8601**(±0.0001)|
 
 Note:
 1) p < 0.05
